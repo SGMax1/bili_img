@@ -1,7 +1,6 @@
 var galleryData = [
     { src: "https://cdn.jsdelivr.net/gh/SGMax1/bili_img@main/礼物图/_1_.png", name: "_1_" },
     { src: "https://cdn.jsdelivr.net/gh/SGMax1/bili_img@main/礼物图/_%E6%A2%85_%E5%A5%BD%E5%B9%B2%E6%9D%AF.png", name: "_梅_好干杯" },
-    { src: "https://cdn.jsdelivr.net/gh/SGMax1/bili_img@main/礼物图/10%E4%B9%B1%E6%96%97%E5%80%BC%E5%8D%A1.png", name: "10乱斗值卡" },
     { src: "https://cdn.jsdelivr.net/gh/SGMax1/bili_img@main/礼物图/1219%E8%98%91%E8%8F%87%E6%96%B9%E8%88%9F.png", name: "1219蘑菇方舟" },
     { src: "https://cdn.jsdelivr.net/gh/SGMax1/bili_img@main/礼物图/16%E5%91%A8%E5%B9%B4%E5%BF%AB%E4%B9%90.png", name: "16周年快乐" },
     { src: "https://cdn.jsdelivr.net/gh/SGMax1/bili_img@main/礼物图/2025.png", name: "2025" },
