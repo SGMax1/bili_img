@@ -1071,7 +1071,6 @@ var galleryData = [
     { src: "https://gitee.com/SG_Max/bili_img/raw/main/礼物图/%E6%99%BA%E9%9B%85%E7%94%B5%E5%8A%A8%E8%BD%BF%E8%B7%91_2.png", name: "智雅电动轿跑_2" },
     { src: "https://gitee.com/SG_Max/bili_img/raw/main/礼物图/%E6%99%BA%E5%8B%87%E6%97%A0%E5%8F%8C.png", name: "智勇无双" },
     { src: "https://gitee.com/SG_Max/bili_img/raw/main/礼物图/%E4%B8%AD%E7%A7%8B%E7%9B%B2%E7%9B%92.png", name: "中秋盲盒" },
-    { src: "https://gitee.com/SG_Max/bili_img/raw/main/礼物图/%E4%B8%AD%E7%A7%8B%E7%9B%B2%E7%9B%92_1%20-%20%E5%89%AF%E6%9C%AC.png", name: "中秋盲盒_1 - 副本" },
     { src: "https://gitee.com/SG_Max/bili_img/raw/main/礼物图/%E4%B8%AD%E7%A7%8B%E7%9B%B2%E7%9B%92_1.png", name: "中秋盲盒_1" },
     { src: "https://gitee.com/SG_Max/bili_img/raw/main/礼物图/%E7%BB%88%E6%9E%81%E7%A7%98%E5%AE%9D.png", name: "终极秘宝" },
     { src: "https://gitee.com/SG_Max/bili_img/raw/main/礼物图/%E9%92%9F%E6%84%8F%E4%BD%A0%E9%A2%84%E6%BC%94.png", name: "钟意你预演" },
