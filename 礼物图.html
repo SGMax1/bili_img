@@ -189,6 +189,13 @@
             display: flex;
         }
 
+        .nav-hint {
+            font-size: 12px;
+            color: #999;
+            white-space: nowrap;
+            flex-shrink: 0;
+        }
+
         .nav-actions {
             display: flex;
             align-items: center;
@@ -929,6 +936,9 @@
             .nav-search {
                 max-width: none;
             }
+            .nav-hint {
+                display: none;
+            }
             .stat-pill {
                 display: none;
             }
@@ -1016,6 +1026,8 @@
                 <input type="text" id="searchInput" placeholder="搜索礼物名称（回车确认）" />
                 <button class="clear-btn" id="clearSearchBtn" title="清除">x</button>
             </div>
+
+            <span class="nav-hint">如果发现想要的素材不存在，请使用 Ctrl+F5 强制刷新网页重试，如果还不存在，请点击右侧向作者报告</span>
 
             <div class="nav-actions">
                 <div class="report-widget">
